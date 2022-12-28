@@ -28,7 +28,7 @@ ___
 Console.WriteLine("Hello World!");
 ```
 <pre>
-    <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>L</kbd> - Вызов приложения
+    <kbd>Ctrl</kbd>+<kbd>Space</kbd> - Вызов приложения
 </pre>
 ___
 ## Basis for creating and configuring a service
